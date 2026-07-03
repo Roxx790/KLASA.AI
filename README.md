@@ -122,7 +122,7 @@ pip install -r requirements.txt
 Pastikan file model
 
 ```
-KLASA.pt
+modelKLASA.pt
 ```
 
 berada di dalam folder proyek.
@@ -130,7 +130,7 @@ berada di dalam folder proyek.
 ### Menjalankan Deteksi
 
 ```bash
-python main.py
+Klasa AI.py
 ```
 
 Apabila menggunakan webcam, kamera akan terbuka secara otomatis.
