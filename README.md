@@ -148,7 +148,7 @@ Tekan tombol berikut:
 KLASA.AI
 │
 ├── model/
-│   └── KLASA.pt
+│   └── modelKLASA.pt
 │
 ├── dataset/
 │
