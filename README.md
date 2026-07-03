@@ -150,11 +150,7 @@ KLASA.AI
 ├── model/
 │   └── modelKLASA.pt
 │
-├── dataset/
-│
-├── hasil/
-│
-├── main.py
+├── Klasa AI.py
 ├── requirements.txt
 └── README.md
 ```
